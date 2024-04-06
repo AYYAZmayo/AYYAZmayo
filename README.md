@@ -1,6 +1,4 @@
-[![MasterHead](https://www.ltts.com/themes/custom/lnttech/images/VLSI/ltts-vlsi.webp)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Ayyaz Ahmed</h1>
-<h3 align="center">Very Ambitious person. I take up all Learning opportunities that enhance my skills and know-how to cope up with failures.</h3>
+<h3 align="center">I take up all Learning opportunities that enhance my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AYYAZmayo&label=Profile%20views&color=0e75b6&style=flat" alt="AYYAZmayo" /> </p>
 
@@ -9,17 +7,15 @@
 
 
 
-- 🔭 I’m currently working on **ASIC_VLSI**
+- 🔭 I’m currently working on **ASIC_VLSI/FPGA Projects**
 
-- 🌱 I’m currently learning **C++/Python/Verilog HDL/System Verilog**
+- 🌱 I have expertise in **C++/Python/Verilog HDL/System Verilog**
 
 - 👯 I’m looking to collaborate on **ASIC_VLSI_Projects**
 
 - 💬 Ask me about **VLSI**
 
 - 📫 How to reach me **ayyazmayo@gmail.com**
-
-- ⚡ Fun fact **I think I am foodieee😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
